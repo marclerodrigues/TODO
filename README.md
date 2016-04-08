@@ -1,2 +1,2 @@
-# todo
-a todo app
+# Todo
+A todo app with angular js
